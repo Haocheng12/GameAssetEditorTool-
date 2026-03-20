@@ -1,58 +1,57 @@
-Game Asset Editor Tool (C# / .NET)
-Overview
+# Game Asset Editor Tool (C# / .NET)
 
-This project is a simple desktop tool developed using C# and .NET (WinForms) for creating, editing, and managing game asset data. It is designed to simulate an internal development tool used in game production pipelines, with a focus on usability and efficient content iteration.
+## Overview
 
-Features
+This project is a simple desktop tool developed using **C#** and **.NET (WinForms)** for creating, editing, and managing game asset data.
+It is designed to simulate an internal development tool used in game production pipelines, with a focus on usability and efficient content iteration.
 
-Load and save asset data from JSON files
+---
 
-View and edit asset properties (Name, Type, Value, Description)
+## Features
 
-Add new assets and delete existing ones
+* Load and save asset data from JSON files
+* View and edit asset properties (Name, Type, Value, Description)
+* Add new assets and delete existing ones
+* Input validation to prevent invalid data
+* Real-time updates through a user-friendly interface
 
-Input validation to prevent invalid data
+---
 
-Real-time updates through a user-friendly interface
+## Technologies Used
 
-Technologies Used
+* C#
+* .NET (WinForms)
+* System.Text.Json
 
-C#
+---
 
-.NET (WinForms)
+## Project Structure
 
-JSON serialization (System.Text.Json)
+* `Form1.cs` → Main UI and tool logic
+* `GameItem.cs` → Data model for assets
+* `items.json` → Sample asset data file
 
-Project Structure
+---
 
-Form1.cs → Main UI and tool logic
+## How to Run
 
-GameItem.cs → Data model for assets
+1. Open the solution file (`.sln`) in Visual Studio
+2. Build the project
+3. Run the application
+4. Click **Load** to load sample data
+5. Select an item to edit its properties
+6. Use **Apply** to update, **Save** to persist changes
 
-items.json → Sample asset data file
+---
 
-How to Run
-
-Open the solution file (.sln) in Visual Studio
-
-Build the project
-
-Run the application
-
-Click Load to load sample data
-
-Select an item to edit its properties
-
-Use Apply to update, Save to persist changes
-
-Purpose
+## Purpose
 
 The goal of this project is to demonstrate:
 
-Tools programming skills
+* Tools programming skills
+* UI development using .NET
+* Data-driven workflow design
+* Consideration for usability and iteration speed
 
-UI development using .NET
 
-Data-driven workflow design
 
-Consideration for usability and iteration speed
