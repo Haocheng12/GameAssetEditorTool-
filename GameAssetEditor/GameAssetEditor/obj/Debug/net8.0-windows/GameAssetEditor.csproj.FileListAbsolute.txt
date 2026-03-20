@@ -1,0 +1,17 @@
+C:\Users\22870\Desktop\art station\ToolsProgrammer\GameAssetEditor\GameAssetEditor\obj\Debug\net8.0-windows\GameAssetEditor.Form1.resources
+C:\Users\22870\Desktop\art station\ToolsProgrammer\GameAssetEditor\GameAssetEditor\obj\Debug\net8.0-windows\GameAssetEditor.csproj.GenerateResource.cache
+C:\Users\22870\Desktop\art station\ToolsProgrammer\GameAssetEditor\GameAssetEditor\obj\Debug\net8.0-windows\GameAssetEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\22870\Desktop\art station\ToolsProgrammer\GameAssetEditor\GameAssetEditor\obj\Debug\net8.0-windows\GameAssetEditor.AssemblyInfoInputs.cache
+C:\Users\22870\Desktop\art station\ToolsProgrammer\GameAssetEditor\GameAssetEditor\obj\Debug\net8.0-windows\GameAssetEditor.AssemblyInfo.cs
+C:\Users\22870\Desktop\art station\ToolsProgrammer\GameAssetEditor\GameAssetEditor\obj\Debug\net8.0-windows\GameAssetEditor.csproj.CoreCompileInputs.cache
+C:\Users\22870\Desktop\art station\ToolsProgrammer\GameAssetEditor\GameAssetEditor\bin\Debug\net8.0-windows\items.json
+C:\Users\22870\Desktop\art station\ToolsProgrammer\GameAssetEditor\GameAssetEditor\bin\Debug\net8.0-windows\GameAssetEditor.exe
+C:\Users\22870\Desktop\art station\ToolsProgrammer\GameAssetEditor\GameAssetEditor\bin\Debug\net8.0-windows\GameAssetEditor.deps.json
+C:\Users\22870\Desktop\art station\ToolsProgrammer\GameAssetEditor\GameAssetEditor\bin\Debug\net8.0-windows\GameAssetEditor.runtimeconfig.json
+C:\Users\22870\Desktop\art station\ToolsProgrammer\GameAssetEditor\GameAssetEditor\bin\Debug\net8.0-windows\GameAssetEditor.dll
+C:\Users\22870\Desktop\art station\ToolsProgrammer\GameAssetEditor\GameAssetEditor\bin\Debug\net8.0-windows\GameAssetEditor.pdb
+C:\Users\22870\Desktop\art station\ToolsProgrammer\GameAssetEditor\GameAssetEditor\obj\Debug\net8.0-windows\GameAssetEditor.dll
+C:\Users\22870\Desktop\art station\ToolsProgrammer\GameAssetEditor\GameAssetEditor\obj\Debug\net8.0-windows\refint\GameAssetEditor.dll
+C:\Users\22870\Desktop\art station\ToolsProgrammer\GameAssetEditor\GameAssetEditor\obj\Debug\net8.0-windows\GameAssetEditor.pdb
+C:\Users\22870\Desktop\art station\ToolsProgrammer\GameAssetEditor\GameAssetEditor\obj\Debug\net8.0-windows\GameAssetEditor.genruntimeconfig.cache
+C:\Users\22870\Desktop\art station\ToolsProgrammer\GameAssetEditor\GameAssetEditor\obj\Debug\net8.0-windows\ref\GameAssetEditor.dll

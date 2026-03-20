@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Health Potion",
+    "Type": "Consumable",
+    "Value": 50,
+    "Description": "Restores health."
+  },
+  {
+    "Name": "Iron Sword",
+    "Type": "Weapon",
+    "Value": 120,
+    "Description": "Basic melee weapon."
+  },
+  {
+    "Name": "Magic Scroll",
+    "Type": "Consumable",
+    "Value": 200,
+    "Description": "Casts a spell."
+  }
+]
